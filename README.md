@@ -22,17 +22,6 @@ I work with various technologies, Including:
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-red?style=flat-square&logo=red-hat&logoColor=white)
 
-## 🌐 Connect with Me
-Feel the pulse of my digital presence on other platforms:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateswarlu-pambha03/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/codeplatform2024)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codeplatform2024/)
-[![Blogger](https://img.shields.io/badge/-Blogger-orange?style=flat-square&logo=blogger&logoColor=white)](https://codeplatform2024.blogspot.com/)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9R_hu_d1Il3RRmFHn7WZhQ)
-
 
 ## 🌱 Currently Learning
 I'm currently focusing on improving my skills in React.
@@ -50,7 +39,18 @@ Explore some of my featured projects:
 1. [Project 1](#): Enhancing user experiences.
 2. [Project 2](#): Innovative solutions for everyday challenges.
 
-## 📬 Contact
+## 🌐 Connect with Me
+Feel the pulse of my digital presence on other platforms:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateswarlu-pambha03/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/codeplatform2024)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codeplatform2024/)
+[![Blogger](https://img.shields.io/badge/-Blogger-orange?style=flat-square&logo=blogger&logoColor=white)](https://codeplatform2024.blogspot.com/)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9R_hu_d1Il3RRmFHn7WZhQ)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=youtube&logoColor=white)](venky7993250873@gmail.com)
+
 Feel free to reach out via email at venky7993250873@gmail.com.
 
 Thanks for checking out my GitHub profile! Let's build something great together! 🚀
