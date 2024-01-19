@@ -51,6 +51,5 @@ Feel the pulse of my digital presence on other platforms:
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9R_hu_d1Il3RRmFHn7WZhQ)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=youtube&logoColor=white)](venky7993250873@gmail.com)
 
-Feel free to reach out via email at venky7993250873@gmail.com.
 
 Thanks for checking out my GitHub profile! Let's build something great together! 🚀
