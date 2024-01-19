@@ -36,7 +36,7 @@ I specialize in both frontend and backend technologies.
 ## 📂 Projects
 Explore some of my featured projects:
 
-1. [Project 1](#): Enhancing user experiences.
+1. [Project 1](https://github.com/venkateswarlupambha/EmpowerSkill-Community-Upskilling-Platform.git)
 2. [Project 2](#): Innovative solutions for everyday challenges.
 
 ## 🌐 Connect with Me
