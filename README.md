@@ -23,6 +23,7 @@ I work with various technologies, Including:
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-red?style=flat-square&logo=red-hat&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+![MS Office](https://img.shields.io/badge/-MS%20Office-orange?style=flat-square&logo=microsoft-office&logoColor=white)
 
 
 ## 🌱 Currently Learning
