@@ -14,7 +14,7 @@ I enjoy coding to solve real-world problems. When I'm not coding, you can find m
 I work with various technologies, Including:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![React js](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3&logoColor=white)
