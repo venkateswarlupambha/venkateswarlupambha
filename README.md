@@ -35,12 +35,12 @@ I specialize in both frontend and backend technologies.
 ## 🏆 Achievements
 - IBM HackChallenge 2023 Winner with a Red Hat award.
 - Completed Microsoft Virtual Internship.
+- NSS Volunteer
 
 ## 📂 Projects
 Explore some of my featured projects:
 
 1. [Project 1](https://github.com/venkateswarlupambha/EmpowerSkill-Community-Upskilling-Platform.git)
-2. [Project 2](#): Innovative solutions for everyday challenges.
 
 ## 🌐 Connect with Me
 Feel the pulse of my digital presence on other platforms:
