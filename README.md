@@ -21,6 +21,8 @@ I work with various technologies, Including:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-red?style=flat-square&logo=red-hat&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 
 
 ## 🌱 Currently Learning
