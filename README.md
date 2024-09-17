@@ -35,19 +35,24 @@ I work with various technologies, Including:
 
 
 
-🌱 **Currently Learning**  
+## 🌱 **Currently Learning**  
+
 I'm currently sharpening my skills in **React**—exploring hooks, state management, and component-based architecture to create seamless, dynamic web applications.
 
-💻 **Full Stack Developer**  
+## 💻 **Full Stack Developer**  
+
 I specialize in both **frontend** and **backend** development, ensuring end-to-end solutions for every project. From crafting intuitive user interfaces with **React.js**, **HTML**, and **CSS**, to building scalable server-side applications with **Node.js** and **Express**.
 
-🚀 **What I’m Doing**  
+## 🚀 **What I’m Doing**  
+
 Right now, I'm focused on **building modern web applications** that are both **scalable** and **user-friendly**, implementing best practices for performance and security.
 
-🎯 **Goal**  
+## 🎯 **Goal**  
+
 To create meaningful digital experiences that not only solve problems but also bring value to users. I believe in building apps that make people's lives easier and more enjoyable.
 
-💡 **Fun Fact**  
+## 💡 **Fun Fact**  
+
 I’m always excited to learn and try new technologies, constantly pushing the boundaries of my skills to keep up with the ever-evolving tech landscape.
 
 ## 🏆 Achievements
