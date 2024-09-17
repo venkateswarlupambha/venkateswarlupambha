@@ -13,17 +13,26 @@ I enjoy coding to solve real-world problems. When I'm not coding, you can find m
 ## 🔧 Skills
 I work with various technologies, Including:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![React js](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
-![Red Hat](https://img.shields.io/badge/-Red%20Hat-red?style=flat-square&logo=red-hat&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-![MS Office](https://img.shields.io/badge/-MS%20Office-orange?style=flat-square&logo=microsoft-office&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=power-bi&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-blue?style=flat-square&logo=canva&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-lightblue?style=flat-square&logo=ibm&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
+![Hostinger](https://img.shields.io/badge/-Hostinger-purple?style=flat-square&logo=hostinger&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat-square&logo=wordpress&logoColor=white)
+
 
 
 ## 🌱 Currently Learning
